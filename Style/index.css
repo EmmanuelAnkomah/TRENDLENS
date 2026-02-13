@@ -63,7 +63,7 @@ body {
     height: 100vh;
     background: linear-gradient(rgba(15, 23, 42, 0.85),
             rgba(15, 23, 42, 0.95)),
-        url("Images/Graph.avif");
+        url("../Images/Graph.avif");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -385,3 +385,4 @@ footer {
     transform: translateY(0);
 
 }
+
